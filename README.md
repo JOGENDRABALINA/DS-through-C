@@ -1,2 +1,2 @@
 # DS-through-C
-Data structures i c
+Data structures in c
